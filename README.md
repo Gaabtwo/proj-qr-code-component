@@ -8,7 +8,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 </p>
 
 ### Links
-- URL do site ao vivo: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL do site ao vivo: [Frontend Mentor | QR code component](https://gabyzinha72.github.io/qr-code-component/)
 
 ### Tecnologias
 - HTML5
