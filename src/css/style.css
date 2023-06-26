@@ -6,8 +6,11 @@
 
 body {
     font-family: 'Outfit', sans-serif;
-    max-width: 1280px;
-    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     background-color: #d6e2f0;
 }
 
@@ -19,7 +22,6 @@ main {
     background-color: white;
     width: 300px;
     padding: 20px;
-    margin: 100px auto 0;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -61,8 +63,8 @@ p {
     color: #3e52a3;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 360px) {
     body {
-        width: 375px;
+        width: 360px;
     }
 }
